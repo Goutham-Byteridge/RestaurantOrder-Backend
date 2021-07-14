@@ -1,0 +1,19 @@
+{
+    "menu": {
+        "1": {
+            "id": "1",
+            "name": "Item1",
+            "amount": 30
+        },
+        "2": {
+            "id": "2",
+            "name": "Item2",
+            "amount": 20
+        },
+        "3": {
+            "id": "3",
+            "name": "Item3",
+            "amount": 50
+        }
+    }
+}
